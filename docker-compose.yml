@@ -49,4 +49,4 @@ services:
     ports:
       - 8082:8080
     environment:
-      DYNAMIC_CONFIG_ENABLED: true
+      DYNAMIC_CONFIG_ENABLED: 'true'
